@@ -25,7 +25,7 @@ An AI-powered art analysis platform that provides insights into artwork styles, 
 - PostgreSQL 16+
 - Environment variables:
   - `DATABASE_URL`: PostgreSQL connection string
-  - Gemini API Key
+  -  Gemini API Key
 
 ## Installation
 
